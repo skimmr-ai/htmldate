@@ -83,7 +83,7 @@ DATE_EXPRESSIONS = """
 
 FREE_TEXT_EXPRESSIONS = XPath(FAST_PREPEND + "/text()")
 MIN_SEGMENT_LEN = 6
-MAX_SEGMENT_LEN = 52
+MAX_SEGMENT_LEN = 54
 
 # discard parts of the webpage
 # archive.org banner inserts
