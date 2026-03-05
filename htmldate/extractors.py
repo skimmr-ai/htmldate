@@ -60,7 +60,6 @@ DATE_EXPRESSIONS = """
     contains(@class, 'post_detail') or
     contains(@class, 'block-content') or
     contains(@class, 'byline') or
-    contains(@class, 'subline') or
     contains(@class, 'posted') or
     contains(@class, 'submitted') or
     contains(@class, 'created-post') or
